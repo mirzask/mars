@@ -3,4 +3,9 @@ I'm pretty much fucked. That's my considered opinion.
 I'm just writing something new here.
 
 3rd line
+<<<<<<< HEAD
 What is happening here?
+=======
+
+Mark, they are coming to get you
+>>>>>>> 9a34e2470a09e5160125ccd3951c32284c69b390
